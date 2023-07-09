@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ashish271095
 - 👀 I’m interested in Computer science engineering 
-- 🌱 I’m currently learning coding in different languages specially pyton
+- 🌱 I’m currently learning coding in different languages specially python
 - 💞️ I’m looking to collaborate on ✌️
+-  I'm open to work !
 - 📫 How to reach me gmail->ashishkumar271095@gmail.com
 
 <!---
